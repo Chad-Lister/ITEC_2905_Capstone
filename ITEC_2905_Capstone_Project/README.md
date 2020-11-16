@@ -9,7 +9,7 @@ My motivation was to create an "issue" tracker to be used for team projects.  Wh
 ## How to Run
 The main files are created with BuildInitialFiles.java which builds the Employee.dat and Project.dat files.  After running the build then ProjectManagement.java drives the rest of the program(s).  PrintProjectFile.java prints selected values primarily used for testing.
 
-<img src="ITEC_2905_Capstone_Project/Main administrative and member screens.png"/>
+<img src="Main administrative and member screens.png"/>
 
 ## Code Example
 ```
